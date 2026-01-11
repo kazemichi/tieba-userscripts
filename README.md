@@ -34,3 +34,19 @@
 效果如下：
 
 ![sample](./imgs/sample2.avif)
+
+   
+
+----
+
+## Auto Delete Storethread
+
+取消收藏贴吧收藏夹中已删除的帖子
+
+点击 [安装脚本](https://github.com/kazemichi/tieba-userscripts/raw/refs/heads/main/auto-delete-storethread/auto-delete-storethread.user.js)
+
+   
+
+浏览器打开 [我的贴子收藏_i贴吧](https://tieba.baidu.com/i/i/storethread) 后，打开油猴菜单点击 `开始执行`，等待完成即可。
+
+![sample](./imgs/sample3.avif)
