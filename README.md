@@ -25,6 +25,8 @@
 
 ## Tieba Lightbox
 
+> 贴吧新版界面已有同类功能，无需安装
+
 将网页版贴吧点击图片在新标签页打开一个丑丑的页面改为在当前页面直接展示图片。
 
 点击 [安装脚本](https://github.com/kazemichi/tieba-userscripts/raw/refs/heads/main/tieba-lightbox/tieba-lightbox.user.js)
